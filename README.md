@@ -1,7 +1,7 @@
 # cybersecurity-notes
 Personal cybersecurity study notes and practical labs
 
-# Cybersecurity Notes – Rıza Korkusuz
+# Cybersecurity Notes – Rıza Korkusuz | SOC | Network Security | IT Support
 
 This repository contains my personal cybersecurity study notes and hands-on lab documentation.
 
