@@ -15,3 +15,6 @@ This repository contains my personal cybersecurity study notes and hands-on lab 
 
 Author: Rıza Korkusuz  
 Location: San Diego, CA
+
+📖 Related Articles:
+https://medium.com/@rizakorkusuz
